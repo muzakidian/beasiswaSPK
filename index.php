@@ -41,14 +41,14 @@ if (!isset($_SESSION["is_logged"])) {
                         <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Input <span class="caret"></span></a>
                           <ul class="dropdown-menu">
-                            <li><a href="?page=beasiswa">Data Beasiswa</a></li>
+                            <li><a href="?page=beasiswa">Tambah Beasiswa</a></li>
                             <li class="divider"></li>
                             <li><a href="?page=mahasiswa">Data Mahasiswa</a></li>
                             <li><a href="?page=kriteria">Kriteria</a></li>
-                            <li><a href="?page=model">Model</a></li>
-                            <li><a href="?page=penilaian">Penilaian</a></li>
+                            <li><a href="?page=model">Bobot</a></li>
+                            <li><a href="?page=penilaian">Penilaian Kriteria</a></li>
                             <li class="divider"></li>
-                            <li><a href="?page=nilai">Persyaratan</a></li>
+                            <li><a href="?page=nilai">Daftar</a></li>
                           </ul>
                         </li>
                         <li class="dropdown">
